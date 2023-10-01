@@ -1,0 +1,23 @@
+
+#contenedor.centrado {
+  color: rgb(100, 14, 100);
+  font-size: 30px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+  text-align: center; 
+}
+
+#boton {
+  background-color: violet;
+  color: #fff;
+  border: none;
+  padding: 20px 30px;
+  cursor: pointer;
+  margin: 0 auto;
+  margin: 0 auto; 
+  margin-top: 20px;
+}
+
+body {
+  background-color: rgb(177, 240, 240); 
+}
